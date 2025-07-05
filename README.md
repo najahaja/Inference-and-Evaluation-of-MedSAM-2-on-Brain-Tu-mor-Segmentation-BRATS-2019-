@@ -127,7 +127,7 @@ pip install torch torchvision matplotlib opencv-python nibabel
 
 1. Download or Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/medsam2-brain-tumor-eval.git
+git clone https://github.com/najahaja/medsam2-brain-tumor-eval.git
 cd medsam2-brain-tumor-eval
 ```
 2. Download Pretrained Weights:
@@ -162,10 +162,6 @@ Segmentation results and evaluation metrics will be displayed within the noteboo
   - Real-time deployment
   - Multilingual clinical inference
   - Emotion & severity conditioning
-  
-## 📄 License
 
-This project is under the MIT License. Please check original model licenses for additional terms.
 
-## 👨‍💻 Author
-Humaima Anwar - humaimaanwar123@gmail.com
+
