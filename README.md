@@ -127,8 +127,8 @@ pip install torch torchvision matplotlib opencv-python nibabel
 
 1. Download or Clone the Repository:
 ```bash
-git clone https://github.com/najahaja/medsam2-brain-tumor-eval.git
-cd medsam2-brain-tumor-eval
+git clone [https://github.com/najahaja/medsam2-brain-tumor-eval.git](https://github.com/najahaja/Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tu-mor-Segmentation-BRATS-2019-)
+cd Inference-and-Evaluation-of-MedSAM-2-on-Brain-Tu-mor-Segmentation-BRATS-2019-
 ```
 2. Download Pretrained Weights:
 
